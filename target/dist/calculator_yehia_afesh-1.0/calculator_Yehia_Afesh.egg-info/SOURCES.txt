@@ -1,0 +1,9 @@
+__init__.py
+setup.py
+calculator_Yehia_Afesh/__init__.py
+calculator_Yehia_Afesh.egg-info/PKG-INFO
+calculator_Yehia_Afesh.egg-info/SOURCES.txt
+calculator_Yehia_Afesh.egg-info/dependency_links.txt
+calculator_Yehia_Afesh.egg-info/namespace_packages.txt
+calculator_Yehia_Afesh.egg-info/top_level.txt
+calculator_Yehia_Afesh.egg-info/zip-safe

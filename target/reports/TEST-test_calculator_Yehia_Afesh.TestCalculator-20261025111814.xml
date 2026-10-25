@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test_calculator_Yehia_Afesh.TestCalculator-20261025111814" tests="15" file="test_calculator_Yehia_Afesh.py" time="0.015" timestamp="2026-10-25T11:18:14" failures="0" errors="0" skipped="0">
+	<testcase classname="test_calculator_Yehia_Afesh.TestCalculator" name="test_add" time="0.000" timestamp="2026-10-25T11:18:14"/>
+	<testcase classname="test_calculator_Yehia_Afesh.TestCalculator" name="test_divide" time="0.002" timestamp="2026-10-25T11:18:14"/>
+	<testcase classname="test_calculator_Yehia_Afesh.TestCalculator" name="test_divide_by_zero" time="0.001" timestamp="2026-10-25T11:18:14"/>
+	<testcase classname="test_calculator_Yehia_Afesh.TestCalculator" name="test_modulus" time="0.000" timestamp="2026-10-25T11:18:14"/>
+	<testcase classname="test_calculator_Yehia_Afesh.TestCalculator" name="test_modulus_by_zero" time="0.001" timestamp="2026-10-25T11:18:14"/>
+	<testcase classname="test_calculator_Yehia_Afesh.TestCalculator" name="test_modulus_negative_number" time="0.000" timestamp="2026-10-25T11:18:14"/>
+	<testcase classname="test_calculator_Yehia_Afesh.TestCalculator" name="test_multiply" time="0.001" timestamp="2026-10-25T11:18:14"/>
+	<testcase classname="test_calculator_Yehia_Afesh.TestCalculator" name="test_power" time="0.001" timestamp="2026-10-25T11:18:14"/>
+	<testcase classname="test_calculator_Yehia_Afesh.TestCalculator" name="test_power_negative_exponent" time="0.002" timestamp="2026-10-25T11:18:14"/>
+	<testcase classname="test_calculator_Yehia_Afesh.TestCalculator" name="test_power_zero_exponent" time="0.001" timestamp="2026-10-25T11:18:14"/>
+	<testcase classname="test_calculator_Yehia_Afesh.TestCalculator" name="test_square_root" time="0.001" timestamp="2026-10-25T11:18:14"/>
+	<testcase classname="test_calculator_Yehia_Afesh.TestCalculator" name="test_square_root_negative_number" time="0.002" timestamp="2026-10-25T11:18:14"/>
+	<testcase classname="test_calculator_Yehia_Afesh.TestCalculator" name="test_square_root_nonperfect_square" time="0.001" timestamp="2026-10-25T11:18:14"/>
+	<testcase classname="test_calculator_Yehia_Afesh.TestCalculator" name="test_square_root_zero" time="0.002" timestamp="2026-10-25T11:18:14"/>
+	<testcase classname="test_calculator_Yehia_Afesh.TestCalculator" name="test_subtract" time="0.001" timestamp="2026-10-25T11:18:14"/>
+</testsuite>

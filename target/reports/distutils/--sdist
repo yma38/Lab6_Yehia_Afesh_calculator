@@ -1,0 +1,46 @@
+* Creating isolated environment: venv+pip...
+* Installing packages in isolated environment:
+  - setuptools >= 40.8.0
+* Getting build dependencies for sdist...
+WARNING: '.' not a valid package name; please use only .-separated package names in setup.py
+running egg_info
+creating calculator_Yehia_Afesh.egg-info
+writing calculator_Yehia_Afesh.egg-info\PKG-INFO
+writing dependency_links to calculator_Yehia_Afesh.egg-info\dependency_links.txt
+writing namespace_packages to calculator_Yehia_Afesh.egg-info\namespace_packages.txt
+writing top-level names to calculator_Yehia_Afesh.egg-info\top_level.txt
+writing manifest file 'calculator_Yehia_Afesh.egg-info\SOURCES.txt'
+reading manifest file 'calculator_Yehia_Afesh.egg-info\SOURCES.txt'
+writing manifest file 'calculator_Yehia_Afesh.egg-info\SOURCES.txt'
+* Installed build dependency versions:
+  - setuptools==84.2.1
+* Building sdist...
+WARNING: '.' not a valid package name; please use only .-separated package names in setup.py
+running sdist
+running egg_info
+writing calculator_Yehia_Afesh.egg-info\PKG-INFO
+writing dependency_links to calculator_Yehia_Afesh.egg-info\dependency_links.txt
+writing namespace_packages to calculator_Yehia_Afesh.egg-info\namespace_packages.txt
+writing top-level names to calculator_Yehia_Afesh.egg-info\top_level.txt
+reading manifest file 'calculator_Yehia_Afesh.egg-info\SOURCES.txt'
+writing manifest file 'calculator_Yehia_Afesh.egg-info\SOURCES.txt'
+warning: sdist: standard file not found: should have one of README, README.rst, README.txt, README.md
+
+running check
+creating calculator_yehia_afesh-1.0
+creating calculator_yehia_afesh-1.0\calculator_Yehia_Afesh
+creating calculator_yehia_afesh-1.0\calculator_Yehia_Afesh.egg-info
+copying files to calculator_yehia_afesh-1.0...
+copying __init__.py -> calculator_yehia_afesh-1.0
+copying setup.py -> calculator_yehia_afesh-1.0
+copying calculator_Yehia_Afesh\__init__.py -> calculator_yehia_afesh-1.0\calculator_Yehia_Afesh
+copying calculator_Yehia_Afesh.egg-info\PKG-INFO -> calculator_yehia_afesh-1.0\calculator_Yehia_Afesh.egg-info
+copying calculator_Yehia_Afesh.egg-info\SOURCES.txt -> calculator_yehia_afesh-1.0\calculator_Yehia_Afesh.egg-info
+copying calculator_Yehia_Afesh.egg-info\dependency_links.txt -> calculator_yehia_afesh-1.0\calculator_Yehia_Afesh.egg-info
+copying calculator_Yehia_Afesh.egg-info\namespace_packages.txt -> calculator_yehia_afesh-1.0\calculator_Yehia_Afesh.egg-info
+copying calculator_Yehia_Afesh.egg-info\top_level.txt -> calculator_yehia_afesh-1.0\calculator_Yehia_Afesh.egg-info
+copying calculator_Yehia_Afesh.egg-info\zip-safe -> calculator_yehia_afesh-1.0\calculator_Yehia_Afesh.egg-info
+Writing calculator_yehia_afesh-1.0\setup.cfg
+Creating tar archive
+removing 'calculator_yehia_afesh-1.0' (and everything under it)
+Successfully built calculator_yehia_afesh-1.0.tar.gz

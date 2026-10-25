@@ -1,0 +1,52 @@
+* Creating isolated environment: venv+pip...
+* Installing packages in isolated environment:
+  - setuptools >= 40.8.0
+* Getting build dependencies for wheel...
+WARNING: '.' not a valid package name; please use only .-separated package names in setup.py
+running egg_info
+writing calculator_Yehia_Afesh.egg-info\PKG-INFO
+writing dependency_links to calculator_Yehia_Afesh.egg-info\dependency_links.txt
+writing namespace_packages to calculator_Yehia_Afesh.egg-info\namespace_packages.txt
+writing top-level names to calculator_Yehia_Afesh.egg-info\top_level.txt
+reading manifest file 'calculator_Yehia_Afesh.egg-info\SOURCES.txt'
+writing manifest file 'calculator_Yehia_Afesh.egg-info\SOURCES.txt'
+* Installed build dependency versions:
+  - setuptools==84.2.1
+* Building wheel...
+WARNING: '.' not a valid package name; please use only .-separated package names in setup.py
+running bdist_wheel
+running build
+running build_py
+creating build\lib
+copying __init__.py -> build\lib
+creating build\lib\calculator_Yehia_Afesh
+copying calculator_Yehia_Afesh\__init__.py -> build\lib\calculator_Yehia_Afesh
+installing to build\bdist.win-amd64\wheel
+running install
+running install_lib
+creating build\bdist.win-amd64\wheel
+creating build\bdist.win-amd64\wheel\calculator_Yehia_Afesh
+copying build\lib\calculator_Yehia_Afesh\__init__.py -> build\bdist.win-amd64\wheel\.\calculator_Yehia_Afesh
+copying build\lib\__init__.py -> build\bdist.win-amd64\wheel\.
+running install_egg_info
+running egg_info
+writing calculator_Yehia_Afesh.egg-info\PKG-INFO
+writing dependency_links to calculator_Yehia_Afesh.egg-info\dependency_links.txt
+writing namespace_packages to calculator_Yehia_Afesh.egg-info\namespace_packages.txt
+writing top-level names to calculator_Yehia_Afesh.egg-info\top_level.txt
+reading manifest file 'calculator_Yehia_Afesh.egg-info\SOURCES.txt'
+writing manifest file 'calculator_Yehia_Afesh.egg-info\SOURCES.txt'
+Copying calculator_Yehia_Afesh.egg-info to build\bdist.win-amd64\wheel\.\calculator_Yehia_Afesh-1.0-py3.12.egg-info
+running install_scripts
+creating build\bdist.win-amd64\wheel\calculator_yehia_afesh-1.0.dist-info\WHEEL
+creating 'c:\\users\\user\\onedrive\\desktop\\aub\\e4\\eece435l\\lab6\\lab6_yehia_afesh_calculator\\target\\dist\\calculator_yehia_afesh-1.0\\dist\\.tmp-lio5b7yy\\calculator_yehia_afesh-1.0-py3-none-any.whl' and adding 'build\\bdist.win-amd64\\wheel' to it
+adding '__init__.py'
+adding 'calculator_Yehia_Afesh/__init__.py'
+adding 'calculator_yehia_afesh-1.0.dist-info/METADATA'
+adding 'calculator_yehia_afesh-1.0.dist-info/WHEEL'
+adding 'calculator_yehia_afesh-1.0.dist-info/namespace_packages.txt'
+adding 'calculator_yehia_afesh-1.0.dist-info/top_level.txt'
+adding 'calculator_yehia_afesh-1.0.dist-info/zip-safe'
+adding 'calculator_yehia_afesh-1.0.dist-info/RECORD'
+removing build\bdist.win-amd64\wheel
+Successfully built calculator_yehia_afesh-1.0-py3-none-any.whl
